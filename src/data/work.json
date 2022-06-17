@@ -1,0 +1,60 @@
+{
+    "entries": [
+        {
+            "img-small": "{{webRoot}}/assets/images/portfolio-small-dc-comics.jpg",
+            "img-full": "{{webRoot}}/assets/images/portfolio-dc-comics.jpg",
+            "title": "DC Comics",
+            "description": "Poster illustration created for a club's annual summer party. Also created stickers, logos and various website elements.",
+            "client": "Boolean Carrers",
+            "category": "Frontend Layout"
+        },
+        {
+            "img-small": "{{webRoot}}/assets/images/portfolio-small-discord.jpg",
+            "img-full": "{{webRoot}}/assets/images/portfolio-discord.jpg",
+            "title": "Discord",
+            "description": "Custom logo created for a local tatoo artist. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam consectetur magna nunc, ut egestas sem egestas non.",
+            "client": "Boolean Carrers",
+            "category": "Frontend Layout"
+        },
+        {
+            "img-small": "{{webRoot}}/assets/images/portfolio-small-dropbox.jpg",
+            "img-full": "{{webRoot}}/assets/images/portfolio-dropbox.jpg",
+            "title": "Dropbox",
+            "description": "Nulla nec elit eu neque faucibus molestie sed et nulla. Aliquam placerat felis ipsum, non pellentesque tortor ultrices eget. Suspendisse ornare bibendum orci, sit amet aliquet erat faucibus et.",
+            "client": "Boolean Carrers",
+            "category": "Frontend Layout"
+        },
+        {
+            "img-small": "{{webRoot}}/assets/images/portfolio-small-playstation.jpg",
+            "img-full": "{{webRoot}}/assets/images/portfolio-playstation.jpg",
+            "title": "Playstation",
+            "description": "Donec congue rutrum felis quis vestibulum. Vestibulum dictum libero eu sapien porttitor ultricies. Proin non dolor et nulla blandit vestibulum sed ut purus.",
+            "client": "Boolean Carrers",
+            "category": "Frontend Layout"
+        },
+        {
+            "img-small": "{{webRoot}}/assets/images/portfolio-small-spotify.jpg",
+            "img-full": "{{webRoot}}/assets/images/portfolio-spotify.jpg",
+            "title": "Spotify Web",
+            "description": "Phasellus consectetur orci ut ante gravida tempor. Praesent volutpat tincidunt enim sed dictum. Curabitur neque urna, rhoncus id neque luctus, finibus ornare libero.",
+            "client": "Boolean Carrers",
+            "category": "Webapp"
+        },
+        {
+            "img-small": "{{webRoot}}/assets/images/portfolio-small-whatsapp.jpg",
+            "img-full": "{{webRoot}}/assets/images/portfolio-whatsapp.jpg",
+            "title": "Whatsapp Web",
+            "description": "Vestibulum eget lectus odio. Curabitur semper, nisi nec gravida pellentesque, justo risus ultricies leo, sed semper eros nisi ut nisl. Ut nec mattis arcu. Donec eu lobortis leo.",
+            "client": "Boolean Carrers",
+            "category": "Webapp"
+        },
+        {
+            "img-small": "{{webRoot}}/assets/images/portfolio-small-boolflix.jpg",
+            "img-full": "{{webRoot}}/assets/images/portfolio-boolflix.jpg",
+            "title": "Boolflix",
+            "description": "Poster illustration created for a club's annual summer party. Also created stickers, logos and various website elements.",
+            "client": "Boolean Carrers",
+            "category": "Webapp"
+        }
+    ]
+}
