@@ -4,57 +4,71 @@
             "img-small": "{{webRoot}}/assets/images/portfolio-small-dc-comics.jpg",
             "img-full": "{{webRoot}}/assets/images/portfolio-dc-comics.jpg",
             "title": "DC Comics",
-            "description": "Poster illustration created for a club's annual summer party. Also created stickers, logos and various website elements.",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
-            "category": "Frontend Layout"
+            "category": "Frontend Layout",
+            "link_code": "https://github.com/lucagad/vue-dc-comics",
+            "link_demo": "https://lucagad.github.io/vue-dc-comics/"
         },
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-discord.jpg",
             "img-full": "{{webRoot}}/assets/images/portfolio-discord.jpg",
             "title": "Discord",
-            "description": "Custom logo created for a local tatoo artist. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam consectetur magna nunc, ut egestas sem egestas non.",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
-            "category": "Frontend Layout"
-        },
-        {
-            "img-small": "{{webRoot}}/assets/images/portfolio-small-dropbox.jpg",
-            "img-full": "{{webRoot}}/assets/images/portfolio-dropbox.jpg",
-            "title": "Dropbox",
-            "description": "Nulla nec elit eu neque faucibus molestie sed et nulla. Aliquam placerat felis ipsum, non pellentesque tortor ultrices eget. Suspendisse ornare bibendum orci, sit amet aliquet erat faucibus et.",
-            "client": "Boolean Carrers",
-            "category": "Frontend Layout"
-        },
-        {
-            "img-small": "{{webRoot}}/assets/images/portfolio-small-playstation.jpg",
-            "img-full": "{{webRoot}}/assets/images/portfolio-playstation.jpg",
-            "title": "Playstation",
-            "description": "Donec congue rutrum felis quis vestibulum. Vestibulum dictum libero eu sapien porttitor ultricies. Proin non dolor et nulla blandit vestibulum sed ut purus.",
-            "client": "Boolean Carrers",
-            "category": "Frontend Layout"
+            "category": "Frontend Layout",
+            "link_code": "https://github.com/lucagad/htmlcss-discord",
+            "link_demo": "https://lucagad.github.io/htmlcss-discord/"
         },
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-spotify.jpg",
             "img-full": "{{webRoot}}/assets/images/portfolio-spotify.jpg",
             "title": "Spotify Web",
-            "description": "Phasellus consectetur orci ut ante gravida tempor. Praesent volutpat tincidunt enim sed dictum. Curabitur neque urna, rhoncus id neque luctus, finibus ornare libero.",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
-            "category": "Webapp"
+            "category": "Webapp",
+            "link_code": "https://github.com/lucagad/html-css-spotifyweb",
+            "link_demo": "https://lucagad.github.io/html-css-spotifyweb/"
+        },
+        {
+            "img-small": "{{webRoot}}/assets/images/portfolio-small-dropbox.jpg",
+            "img-full": "{{webRoot}}/assets/images/portfolio-dropbox.jpg",
+            "title": "Dropbox",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
+            "client": "Boolean Carrers",
+            "category": "Frontend Layout",
+            "link_code": "https://github.com/lucagad/htmlcss-dropbox",
+            "link_demo": "https://lucagad.github.io/htmlcss-dropbox/"
+        },
+        {
+            "img-small": "{{webRoot}}/assets/images/portfolio-small-playstation.jpg",
+            "img-full": "{{webRoot}}/assets/images/portfolio-playstation.jpg",
+            "title": "Playstation",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
+            "client": "Boolean Carrers",
+            "category": "Frontend Layout",
+            "link_code": "https://github.com/lucagad/htmlcss-playstation",
+            "link_demo": "https://lucagad.github.io/htmlcss-playstation/"
         },
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-whatsapp.jpg",
             "img-full": "{{webRoot}}/assets/images/portfolio-whatsapp.jpg",
             "title": "Whatsapp Web",
-            "description": "Vestibulum eget lectus odio. Curabitur semper, nisi nec gravida pellentesque, justo risus ultricies leo, sed semper eros nisi ut nisl. Ut nec mattis arcu. Donec eu lobortis leo.",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
-            "category": "Webapp"
+            "category": "Webapp",
+            "link_code": "https://github.com/lucagad/vue-boolzapp",
+            "link_demo": "https://lucagad.github.io/vue-boolzapp/"
         },
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-boolflix.jpg",
             "img-full": "{{webRoot}}/assets/images/portfolio-boolflix.jpg",
             "title": "Boolflix",
-            "description": "Poster illustration created for a club's annual summer party. Also created stickers, logos and various website elements.",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
-            "category": "Webapp"
+            "category": "Webapp",
+            "link_code": "https://github.com/lucagad/vue-boolflix",
+            "link_demo": "https://lucagad.github.io/vue-boolflix/"
         }
     ]
 }

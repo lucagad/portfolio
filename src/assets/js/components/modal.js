@@ -22,9 +22,17 @@
             const modalCategory = modal.querySelector('.category p.text-muted');
             const modalCategoryVal = parentDiv.getAttribute('data-portfolio-category');
 
+            const modalDemo = modal.getElementsByClassName('btn-demo');
+            const modalDemoVal = parentDiv.getAttribute('data-portfolio-demo');
+            const modalRepo = modal.getElementsByClassName('btn-repository');
+            const modalRepoVal = parentDiv.getAttribute('data-portfolio-repository');
+
             if (modalImg && modalImgVal) {
                 modalImg.setAttribute('src', modalImgVal);
             }
+
+            modalDemo[0].setAttribute("href", modalDemoVal);
+            modalRepo[0].setAttribute("href", modalRepoVal);
 
             setContent({ target: modalTitle, value: modalTitleVal });
             setContent({ target: modalIntro, value: modalIntroVal });
