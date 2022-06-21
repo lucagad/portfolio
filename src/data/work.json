@@ -3,7 +3,7 @@
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-dc-comics.jpg",
             "img-full": "{{webRoot}}/assets/images/portfolio-dc-comics.jpg",
-            "title": "DC Comics",
+            "title": "DC Comics (Desktop Version)",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
             "category": "Frontend Layout",
@@ -13,7 +13,7 @@
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-discord.jpg",
             "img-full": "{{webRoot}}/assets/images/portfolio-discord.jpg",
-            "title": "Discord",
+            "title": "Discord (Desktop Version)",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
             "category": "Frontend Layout",
@@ -23,7 +23,7 @@
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-spotify.jpg",
             "img-full": "{{webRoot}}/assets/images/portfolio-spotify.jpg",
-            "title": "Spotify Web",
+            "title": "Spotify Web (Responsive)",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
             "category": "Webapp",
@@ -33,7 +33,7 @@
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-dropbox.jpg",
             "img-full": "{{webRoot}}/assets/images/portfolio-dropbox.jpg",
-            "title": "Dropbox",
+            "title": "Dropbox (Desktop Version)",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
             "category": "Frontend Layout",
@@ -43,7 +43,7 @@
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-playstation.jpg",
             "img-full": "{{webRoot}}/assets/images/portfolio-playstation.jpg",
-            "title": "Playstation",
+            "title": "Playstation (Desktop Version)",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
             "category": "Frontend Layout",
@@ -53,7 +53,7 @@
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-whatsapp.jpg",
             "img-full": "{{webRoot}}/assets/images/portfolio-whatsapp.jpg",
-            "title": "Whatsapp Web",
+            "title": "Whatsapp Web (Desktop Version)",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
             "category": "Webapp",
@@ -63,7 +63,7 @@
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-boolflix.jpg",
             "img-full": "{{webRoot}}/assets/images/portfolio-boolflix.jpg",
-            "title": "Boolflix",
+            "title": "Boolflix (Responsive)",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
             "category": "Webapp",
