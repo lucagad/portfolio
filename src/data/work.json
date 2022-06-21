@@ -8,7 +8,7 @@
             "client": "Boolean Carrers",
             "category": "Frontend Layout",
             "link_code": "https://github.com/lucagad/vue-dc-comics",
-            "link_demo": "https://lucagad.github.io/vue-dc-comics/"
+            "link_demo": "http://dc-comics.lucagaddini.com/"
         },
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-discord.jpg",
@@ -18,7 +18,7 @@
             "client": "Boolean Carrers",
             "category": "Frontend Layout",
             "link_code": "https://github.com/lucagad/htmlcss-discord",
-            "link_demo": "https://lucagad.github.io/htmlcss-discord/"
+            "link_demo": "http://discord.lucagaddini.com"
         },
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-spotify.jpg",
@@ -28,7 +28,7 @@
             "client": "Boolean Carrers",
             "category": "Webapp",
             "link_code": "https://github.com/lucagad/html-css-spotifyweb",
-            "link_demo": "https://lucagad.github.io/html-css-spotifyweb/"
+            "link_demo": "http://spotify.lucagaddini.com/"
         },
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-dropbox.jpg",
@@ -38,7 +38,7 @@
             "client": "Boolean Carrers",
             "category": "Frontend Layout",
             "link_code": "https://github.com/lucagad/htmlcss-dropbox",
-            "link_demo": "https://lucagad.github.io/htmlcss-dropbox/"
+            "link_demo": "http://dropbox.lucagaddini.com/"
         },
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-playstation.jpg",
@@ -48,7 +48,7 @@
             "client": "Boolean Carrers",
             "category": "Frontend Layout",
             "link_code": "https://github.com/lucagad/htmlcss-playstation",
-            "link_demo": "https://lucagad.github.io/htmlcss-playstation/"
+            "link_demo": "http://playstation.lucagaddini.com/"
         },
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-whatsapp.jpg",
@@ -58,7 +58,7 @@
             "client": "Boolean Carrers",
             "category": "Webapp",
             "link_code": "https://github.com/lucagad/vue-boolzapp",
-            "link_demo": "https://lucagad.github.io/vue-boolzapp/"
+            "link_demo": "http://boolzapp.lucagaddini.com"
         },
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-boolflix.jpg",
@@ -68,7 +68,7 @@
             "client": "Boolean Carrers",
             "category": "Webapp",
             "link_code": "https://github.com/lucagad/vue-boolflix",
-            "link_demo": "https://lucagad.github.io/vue-boolflix/"
+            "link_demo": "http://boolflix.lucagaddini.com"
         }
     ]
 }
