@@ -1,34 +1,69 @@
 {
     "entries": [
         {
-            "logo": "{{webRoot}}/assets/images/figma.svg",
-            "skill": "Figma",
-            "percent": "75"
+            "logo": "{{webRoot}}/assets/images/html.svg",
+            "skill": "HTML",
+            "percent": "70"
         },
         {
-            "logo": "{{webRoot}}/assets/images/sketch.svg",
-            "skill": "Sketch",
-            "percent": "95"
+            "logo": "{{webRoot}}/assets/images/css.svg",
+            "skill": "CSS",
+            "percent": "70"
         },
         {
-            "logo": "{{webRoot}}/assets/images/photoshop.svg",
-            "skill": "Photoshop",
-            "percent": "65"
+            "logo": "{{webRoot}}/assets/images/sass.svg",
+            "skill": "Sass",
+            "percent": "50"
         },
         {
-            "logo": "{{webRoot}}/assets/images/xd.svg",
-            "skill": "XD",
-            "percent": "35"
+            "logo": "{{webRoot}}/assets/images/javascript.svg",
+            "skill": "Javascript",
+            "percent": "50"
+        },
+        {
+            "logo": "{{webRoot}}/assets/images/php.svg",
+            "skill": "PHP",
+            "percent": "60"
+        },
+        {
+            "logo": "{{webRoot}}/assets/images/mysql.svg",
+            "skill": "MySQL",
+            "percent": "60"
+        },
+        {
+            "logo": "{{webRoot}}/assets/images/vuejs.svg",
+            "skill": "Vue.Js",
+            "percent": "50"
+        },
+        {
+            "logo": "{{webRoot}}/assets/images/laravel.svg",
+            "skill": "Laravel",
+            "percent": "50"
+        },
+        {
+            "logo": "{{webRoot}}/assets/images/git.svg",
+            "skill": "Git",
+            "percent": "50"
+        },
+        {
+            "logo": "{{webRoot}}/assets/images/github.svg",
+            "skill": "GitHub",
+            "percent": "50"
+        },
+        {
+            "logo": "{{webRoot}}/assets/images/vscode.svg",
+            "skill": "Visual Studio Code",
+            "percent": "60"
         },
         {
             "logo": "{{webRoot}}/assets/images/illustrator.svg",
             "skill": "Illustrator",
-            "percent": "98"
+            "percent": "80"
         },
         {
-            "logo": "{{webRoot}}/assets/images/indesign.svg",
-            "skill": "Indesign",
-            "percent": "45"
+            "logo": "{{webRoot}}/assets/images/photoshop.svg",
+            "skill": "Photoshop",
+            "percent": "80"
         }
     ]
 }
