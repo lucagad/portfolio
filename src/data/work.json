@@ -7,6 +7,8 @@
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
             "category": "Frontend Layout",
+            "language": "HTML | CSS | Vue.Js",
+            "frameworks": "Vue.Js",
             "link_code": "https://github.com/lucagad/vue-dc-comics",
             "link_demo": "http://dc-comics.lucagaddini.com/"
         },
@@ -17,8 +19,22 @@
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
             "category": "Frontend Layout",
+            "language": "",
+            "frameworks": "",
             "link_code": "https://github.com/lucagad/htmlcss-discord",
             "link_demo": "http://discord.lucagaddini.com"
+        },
+        {
+            "img-small": "{{webRoot}}/assets/images/portfolio-small-boolflix.jpg",
+            "img-full": "{{webRoot}}/assets/images/portfolio-boolflix.jpg",
+            "title": "Boolflix (Responsive)",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
+            "client": "Boolean Carrers",
+            "category": "Webapp",
+            "language": "HTML | CSS",
+            "frameworks": "Vue.Js",
+            "link_code": "https://github.com/lucagad/vue-boolflix",
+            "link_demo": "http://boolflix.lucagaddini.com"
         },
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-spotify.jpg",
@@ -27,6 +43,8 @@
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
             "category": "Webapp",
+            "language": "",
+            "frameworks": "",
             "link_code": "https://github.com/lucagad/html-css-spotifyweb",
             "link_demo": "http://spotify.lucagaddini.com/"
         },
@@ -37,18 +55,34 @@
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
             "category": "Frontend Layout",
+            "language": "",
+            "frameworks": "",
             "link_code": "https://github.com/lucagad/htmlcss-dropbox",
             "link_demo": "http://dropbox.lucagaddini.com/"
         },
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-playstation.jpg",
             "img-full": "{{webRoot}}/assets/images/portfolio-playstation.jpg",
-            "title": "Playstation (Desktop Version)",
+            "title": "Playstation (Responsive)",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
             "category": "Frontend Layout",
+            "language": "HTML | CSS",
+            "frameworks": "",
             "link_code": "https://github.com/lucagad/htmlcss-playstation",
             "link_demo": "http://playstation.lucagaddini.com/"
+        },
+        {
+            "img-small": "{{webRoot}}/assets/images/portfolio-small-campominato.jpg",
+            "img-full": "{{webRoot}}/assets/images/portfolio-campominato.jpg",
+            "title": "Campo Minato (Responsive)",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
+            "client": "Boolean Carrers",
+            "category": "Webapp",
+            "language": "HTML | CSS | Javascript",
+            "frameworks": "Bootstrap",
+            "link_code": "https://github.com/lucagad/js-campominato-dom",
+            "link_demo": "http://campominato.lucagaddini.com"
         },
         {
             "img-small": "{{webRoot}}/assets/images/portfolio-small-whatsapp.jpg",
@@ -57,18 +91,22 @@
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
             "category": "Webapp",
+            "language": "",
+            "frameworks": "",
             "link_code": "https://github.com/lucagad/vue-boolzapp",
             "link_demo": "http://boolzapp.lucagaddini.com"
         },
         {
-            "img-small": "{{webRoot}}/assets/images/portfolio-small-boolflix.jpg",
-            "img-full": "{{webRoot}}/assets/images/portfolio-boolflix.jpg",
-            "title": "Boolflix (Responsive)",
+            "img-small": "{{webRoot}}/assets/images/portfolio-small-campominato.jpg",
+            "img-full": "{{webRoot}}/assets/images/portfolio-campominato.jpg",
+            "title": "Mid Course Project (Desktop Version)",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
-            "category": "Webapp",
-            "link_code": "https://github.com/lucagad/vue-boolflix",
-            "link_demo": "http://boolflix.lucagaddini.com"
+            "category": "Frontend Layout",
+            "language": "HTML | CSS ",
+            "frameworks": "Bootstrap | Vue.Js",
+            "link_code": "https://github.com/lucagad/proj-html-vuejs",
+            "link_demo": "http://mid-project.lucagaddini.com"
         }
     ]
 }
