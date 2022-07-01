@@ -22,6 +22,13 @@
             const modalCategory = modal.querySelector('.category p.text-muted');
             const modalCategoryVal = parentDiv.getAttribute('data-portfolio-category');
 
+
+            const modalLanguages = modal.querySelector('.languages p.text-muted');
+            const modalLanguagesVal = parentDiv.getAttribute('data-portfolio-languages');
+
+            const modalFrameworks = modal.querySelector('.frameworks p.text-muted');
+            const modalFrameworksVal = parentDiv.getAttribute('data-portfolio-frameworks');
+
             const modalDemo = modal.getElementsByClassName('btn-demo');
             const modalDemoVal = parentDiv.getAttribute('data-portfolio-demo');
             const modalRepo = modal.getElementsByClassName('btn-repository');
@@ -38,6 +45,9 @@
             setContent({ target: modalIntro, value: modalIntroVal });
             setContent({ target: modalClient, value: modalClientVal });
             setContent({ target: modalCategory, value: modalCategoryVal });
+
+            setContent({ target: modalLanguages, value: modalLanguagesVal });
+            setContent({ target: modalFrameworks, value: modalFrameworksVal });
             
         });
     }
