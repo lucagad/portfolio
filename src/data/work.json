@@ -97,8 +97,8 @@
             "link_demo": "http://boolzapp.lucagaddini.com"
         },
         {
-            "img-small": "{{webRoot}}/assets/images/portfolio-small-campominato.jpg",
-            "img-full": "{{webRoot}}/assets/images/portfolio-campominato.jpg",
+            "img-small": "{{webRoot}}/assets/images/portfolio-small-midproj.jpg",
+            "img-full": "{{webRoot}}/assets/images/portfolio-midproj.jpg",
             "title": "Mid Course Project (Desktop Version)",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint quod nobis voluptas quam, cupiditate aut quo maiores nesciunt? Possimus nemo voluptatum, provident iure quaerat reiciendis!",
             "client": "Boolean Carrers",
